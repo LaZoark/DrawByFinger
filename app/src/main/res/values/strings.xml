@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">canvasPractice</string>
+    <string name="textview">Draw whatever you want!</string>
+</resources>
